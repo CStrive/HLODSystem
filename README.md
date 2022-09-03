@@ -5,7 +5,7 @@
 ![ReleaseBadge](https://badge-proxy.cds.internal.unity3d.com/4024b351-1f1c-4a34-a76d-83d4248b9f8b)
 
 # HLOD system
-It can replace multiple Static Mesh Actors with single, combined Static Mesh Actor at long view distances. This helps reduce the number of Actors that need to be rendered for the scene, increasing performance by lowering the number of draw calls per frame. 
+它可以在长视距的情况下用单一的、组合的静态网格角色来代替多个静态网格角色。这有助于减少场景中需要渲染的Actor的数量，通过降低每帧的绘制调用次数来提高性能。
 
 
 | Render image  | Show draw calls | Show draw calls of HLOD |
